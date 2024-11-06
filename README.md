@@ -40,11 +40,11 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
 3. **Input the numbers as prompted. The result of the operation will be displayed in the terminal.**
 
 ## Operations Menu
-1. **Addition**
-2. **Subtraction**
-3. **Multiplication**
-4. **Division**
-5. **Power (Exponentiation)**
+ 1. **Addition**
+ 2. **Subtraction**
+ 3. **Multiplication**
+ 4. **Division**
+ 5. **Power (Exponentiation)**
 **To quit the calculator, press Ctrl+C in the terminal.**
 
 ## Error Handling
@@ -53,6 +53,7 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
 **Division by zero is not allowed, and the program will notify you if you attempt it.**
 
 ## Example
+
     ```bash
     1. Add
     2. Subtract
@@ -63,6 +64,7 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
     Enter the first number: 10
     Enter the second number: 5
     Answer: 15
+
     ```
 
 ## LICENSE
