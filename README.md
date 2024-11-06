@@ -36,8 +36,8 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
    ```bash
    npm start
    ```
-2 **Select the operation you want to perform by entering the corresponding number (1-5).**
-3 **Input the numbers as prompted. The result of the operation will be displayed in the terminal.**
+2. **Select the operation you want to perform by entering the corresponding number (1-5).**
+3. **Input the numbers as prompted. The result of the operation will be displayed in the terminal.**
 
 ## Operations Menu
 **1: Addition**
@@ -51,3 +51,19 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
 
 **If you enter a non-numeric value, the program will prompt you to enter valid numbers.**
 **Division by zero is not allowed, and the program will notify you if you attempt it.**
+
+## Example
+    ```bash
+    1. Add
+    2. Subtract
+    3. Multiply
+    4. Divide
+    5. Power
+    Enter your choice: 1
+    Enter the first number: 10
+    Enter the second number: 5
+    Answer: 15
+    ```
+
+## LICENSE
+This project is licensed under the MIT License
