@@ -40,11 +40,11 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
 3. **Input the numbers as prompted. The result of the operation will be displayed in the terminal.**
 
 ## Operations Menu
-**1: Addition**
-**2: Subtraction**
-**3: Multiplication**
-**4: Division**
-**5: Power (Exponentiation)**
+1. **Addition**
+2. **Subtraction**
+3. **Multiplication**
+4. **Division**
+5. **Power (Exponentiation)**
 **To quit the calculator, press Ctrl+C in the terminal.**
 
 ## Error Handling
