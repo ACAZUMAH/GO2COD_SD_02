@@ -53,8 +53,6 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
 **Division by zero is not allowed, and the program will notify you if you attempt it.**
 
 ## Example
-
-    ```bash
     1. Add
     2. Subtract
     3. Multiply
@@ -64,8 +62,6 @@ subtraction, multiplication, division, and exponentiation. It allows users to in
     Enter the first number: 10
     Enter the second number: 5
     Answer: 15
-
-    ```
 
 ## LICENSE
 This project is licensed under the MIT License
